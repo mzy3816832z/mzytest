@@ -109,3 +109,5 @@ logging.critical('critical')
 
 c = 1
 s = 2
+f = 5
+t = 5
