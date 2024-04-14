@@ -108,3 +108,4 @@ logging.error('error')
 logging.critical('critical')
 
 c = 1
+s = 2
